@@ -7,7 +7,9 @@ A simple implementation in [Julia](https://julialang.org) of the technique prese
 Since this is supposed to work as a simple example, the model used is a simple Real Business Cycle model.
 The value function is:
 
-![rbc](/Users/giovannib/Documents/MSci Economics/Konstanz/Computational Economics/Presentation/Code/opencl_vfi/res/rbc.png)
+<p align="center">
+   <img width=90% src="res/rbc.png">
+</p>
 
 For both the CPU and the GPU algorithm we employ a "brute force" algorithm:
 
