@@ -1,5 +1,7 @@
 # OpenCL Value Function Iteration
 
+![made in | Konstanz](https://img.shields.io/badge/made%20in-Konstanz-blue.svg)
+
 A simple implementation in [Julia](https://julialang.org) of the technique presented in the paper "*Tapping the Supercomputer under your Desk: Solving Dynamic Equilibrium Models with Graphics Processors*" by Eric. M. Aldrich, Jesus Fernandez-Villaverde, A. Ronald Gallant, Juan F. Rubio-Ramirez.
 
 ### The Model & the Solution
