@@ -1,4 +1,4 @@
-# OpenCL Value Function Iteration
+# OpenCL Value Function Iteration in Julia
 
 ![made in | Konstanz](https://img.shields.io/badge/made%20in-Konstanz-blue.svg)
 
