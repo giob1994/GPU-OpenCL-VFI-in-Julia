@@ -1,13 +1,13 @@
 # GPU/OpenCL Value Function Iteration in Julia
 
-![made in | Konstanz](https://img.shields.io/badge/made%20in-Konstanz-blue.svg).
+![made in | Konstanz](https://img.shields.io/badge/made%20in-Konstanz-blue.svg)
 
-An ongoing discussion on using [Julia](http://julialang.org) to apply GPGPU computing to Economics:
+Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economics:
 
 | Notebook                                                     | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [GPU Computing for Value Function Iteration in OpenCL](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/OpenCL%20Value%20Function%20Iteration.ipynb) | Implementation of the basic RBC model in Julia and in pure OpenCL code. |
-| []()                                                         | Text                                                         |
+| [Value Function Iteration with GPUArray.jl](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/VFI%20with%20GPUArrays.ipynb) | Solving the simple RBC model on the GPU, but by using higher-level Julia code using GPUArrays.jl and CLArrays.jl. |
 
 ### The Model & the Solution
 
