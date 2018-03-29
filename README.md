@@ -8,7 +8,7 @@ Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economi
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [GPU Computing for Value Function Iteration in OpenCL](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/OpenCL%20Value%20Function%20Iteration.ipynb) | Implementation of the basic RBC model in Julia and in pure OpenCL code. |
 | [Value Function Iteration with GPUArray.jl](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/VFI%20with%20GPUArrays.ipynb) | Solving the simple RBC model on the GPU, but by using higher-level Julia code using GPUArrays.jl and CLArrays.jl. |
-| [GPU Value Function Iteration under Uncertainty](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/GPU%20Value%20Function%20Iteration%20under%20Uncertainty.ipynb) | Introducing uncertainty in the simple RBC model through the mean of a simple Markov process for productivity, and solving it with the GPU. |
+| [GPU Value Function Iteration under Uncertainty](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/GPU%20Value%20Function%20Iteration%20under%20Uncertainty.ipynb) | Introducing uncertainty in the RBC model through the mean of a simple Markov process for productivity, and solving it with the GPU. |
 
 ### The Model & the Solution
 
