@@ -9,8 +9,9 @@ Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economi
 | [GPU Computing for Value Function Iteration in OpenCL](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/OpenCL%20Value%20Function%20Iteration.ipynb) | Implementation of the basic RBC model in Julia and in pure OpenCL code. |
 | [Value Function Iteration with GPUArray.jl](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/VFI%20with%20GPUArrays.ipynb) | Solving the simple RBC model on the GPU, but by using higher-level Julia code using GPUArrays.jl and CLArrays.jl. |
 | [GPU Value Function Iteration under Uncertainty](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/GPU%20Value%20Function%20Iteration%20under%20Uncertainty.ipynb) | Introducing uncertainty in the RBC model through the mean of a simple Markov process for productivity, and solving it with the GPU. |
+| [OLG Model with Individual Uncertainty](https://github.com/giob1994/GPU-OpenCL-VFI-in-Julia/blob/master/OLG%20Model%20with%20Individual%20Uncertainty.ipynb) | Usage of an OLG model similar to that developed by Huggett (1993) to show the computational advantages of using GPUs to run the VFI algorithm. |
 
-### The Model & the Solution
+### A Basic Model & the Solution
 
 Since this is supposed to work as a simple example, the model used is a simple **Real Business Cycle model**.
 The value function is:
@@ -30,6 +31,8 @@ For both the CPU and the GPU algorithm we employ a "brute force" algorithm:
 ### Acknowledgements
 
 The main concepts behind this work are from "**_Tapping the Supercomputer under your Desk: Solving Dynamic Equilibrium Models with Graphics Processors_**" by Eric M. Aldrich, Jesús Fernández-Villaverde, A. Ronald Gallant and Juan F. Rubio-Ramírez.
+
+I would like to thank Simon Danish, who develops GPUArrays.jl and CPUArrays.jl, for his great help on using said packages.
 
 ### Notes:
 
