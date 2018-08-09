@@ -2,6 +2,8 @@
 
 ![made in | Konstanz](https://img.shields.io/badge/made%20in-Konstanz-blue.svg)
 
+**Tested on: Julia v0.6.4, MacOS 10.12+**
+
 Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economics:
 
 | Notebook                                                     | Description                                                  |
