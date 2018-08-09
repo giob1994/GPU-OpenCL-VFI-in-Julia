@@ -9,7 +9,7 @@ Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economi
 | [GPU Computing for Value Function Iteration in OpenCL](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/OpenCL%20Value%20Function%20Iteration.ipynb) | Implementation of the basic RBC model in Julia and in pure OpenCL code. |
 | [Value Function Iteration with GPUArray.jl](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/VFI%20with%20GPUArrays.ipynb) | Solving the simple RBC model on the GPU, but by using higher-level Julia code using GPUArrays.jl and CLArrays.jl. |
 | [GPU Value Function Iteration under Uncertainty](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/GPU%20Value%20Function%20Iteration%20under%20Uncertainty.ipynb) | Introducing uncertainty in the RBC model through the mean of a simple Markov process for productivity, and solving it with the GPU. |
-| [OLG Model with Individual Uncertainty](https://github.com/giob1994/GPU-OpenCL-VFI-in-Julia/blob/master/OLG%20Model%20with%20Individual%20Uncertainty.ipynb) | Usage of an OLG model similar to that developed by Huggett (1993) to show the computational advantages of using GPUs to run the VFI algorithm. |
+| [OLG Model with Individual Uncertainty](https://github.com/giob1994/GPU-OpenCL-VFI-in-Julia/blob/master/OLG%20-%20Dev.ipynb) | **[!] Experimental [!]** <br>Usage of an OLG model similar to that developed by Huggett (1993) to show the computational advantages of using GPUs to run the VFI algorithm.|
 
 ### A Basic Model & the Solution
 
