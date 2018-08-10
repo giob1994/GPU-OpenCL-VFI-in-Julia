@@ -4,6 +4,13 @@
 
 **Tested on: Julia v0.6.4, MacOS 10.12+**
 
+---
+
+**JuliaCon 2018** Presentation: 
+["_GPU-Accelerated Value Function Iteration in Julia: Faster Macroeconomic Modeling_"](https://github.com/giob1994/OpenCL-VFI-in-Julia/blob/master/JuliaCon%202018%20Presentation/GPU-Accelerated%20Value%20Function%20Iteration%20in%20Julia%20Faster%20Macroeconomic%20Modeling.pdf)
+
+---
+
 Ideas on using [Julia](http://julialang.org) to apply GPGPU computing to Economics:
 
 | Notebook                                                     | Description                                                  |
